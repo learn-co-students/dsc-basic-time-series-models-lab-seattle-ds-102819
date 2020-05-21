@@ -41,7 +41,7 @@ Create the dates. You can do this using the `date_range()` function Pandas. More
 dates = None
 ```
 
-Generate the values for the white noise process representing Nina's commute in August and September.
+Generate the values for the white noise process representing Nina's commute in August through the end of October.
 
 
 ```python
